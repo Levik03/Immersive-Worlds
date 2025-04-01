@@ -160,7 +160,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.unity.vrtemplate
+    Android: com.unity.immersiveworlds
     Standalone: com.Unity-Technologies.VR-Template
   buildNumber:
     Bratwurst: 0
@@ -936,7 +936,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: eeae4ac7-837d-4337-9462-622534e5c4bd
   framebufferDepthMemorylessMode: 0
